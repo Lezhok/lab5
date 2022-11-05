@@ -1,0 +1,5 @@
+C:\Users\38095\Desktop\3_семестр\ООП\lab5\Thirt\obj\Debug\net6.0\Thirt.csproj.AssemblyReference.cache
+C:\Users\38095\Desktop\3_семестр\ООП\lab5\Thirt\obj\Debug\net6.0\Thirt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\38095\Desktop\3_семестр\ООП\lab5\Thirt\obj\Debug\net6.0\Thirt.AssemblyInfoInputs.cache
+C:\Users\38095\Desktop\3_семестр\ООП\lab5\Thirt\obj\Debug\net6.0\Thirt.AssemblyInfo.cs
+C:\Users\38095\Desktop\3_семестр\ООП\lab5\Thirt\obj\Debug\net6.0\Thirt.csproj.CoreCompileInputs.cache
